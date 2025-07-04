@@ -42,5 +42,11 @@ _📝 Add details about your system architecture here, such as:_
 
 ---
 
+## 👩‍⚕️ Use Cases
 
+- Hospitals and clinics for automated anemia screening
+- Rural health programs with remote monitoring needs
+- Researchers analyzing anemia patterns in different populations
+
+---
 
